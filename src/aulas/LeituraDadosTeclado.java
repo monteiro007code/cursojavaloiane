@@ -37,5 +37,7 @@ public class LeituraDadosTeclado {
         System.out.println("Altura: " + altura);
         System.out.println("Tem bichinho de estimação: " + temPet);
 
+        scan.close();
+
     }
 }
